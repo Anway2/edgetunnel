@@ -136,7 +136,7 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)，**感谢[Alice Networ
 
 | 变量名 | 示例 | 必填 | 备注 | YT |
 |--------|---------|-|-----|-----|
-| UUID | `90cd4a77-141a-43c9-991b-08263cfe9c10` |✅| 可输入任意值(非UUIDv4标准的值会自动切换成动态UUID) | [Video](https://www.youtube.com/watch?v=s91zjpw3-P8&t=72s) |
+| UUID | `38e42c8b-da8b-4322-9d50-9b0e10beb5fd` |✅| 可输入任意值(非UUIDv4标准的值会自动切换成动态UUID) | [Video](https://www.youtube.com/watch?v=s91zjpw3-P8&t=72s) |
 | KEY | `token` |❌| 动态UUID秘钥，使用变量`KEY`的时候，将不再启用变量`UUID`|  |
 | TIME | `7` |❌| 动态UUID有效时间(默认值:`7`天)|  |
 | UPTIME | `3` |❌| 动态UUID更新时间(默认值:北京时间`3`点更新) |  |
